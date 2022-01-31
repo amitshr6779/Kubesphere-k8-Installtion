@@ -1,2 +1,0 @@
-Hello branch master
-Hi branch2
